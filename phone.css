@@ -22,4 +22,29 @@
     padding: 4px 8px;
     border-radius: 5px;
   }
+
+  /*3 no section css*/
+
+  .item-a {
+    margin: 4%;
+  }
+  .title {
+    font-size: 22px;
+  }
+
+  /*4 no section css*/
+
+  .item-b {
+    margin: 4%;
+  }
+  .title-a {
+    font-size: 22px;
+  }
+
+  .title-b {
+    font-size: 18px;
+  }
+  .li-a {
+    font-size: 13px;
+  }
 }
